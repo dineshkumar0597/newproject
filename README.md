@@ -1,2 +1,2 @@
 # newproject
-this one to keep
+this one to keep details
